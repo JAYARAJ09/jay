@@ -3,5 +3,5 @@ if	a>0:
 	print "Postive"
 else  a<0:
 	print "Negative"
-else a==0:
+else:
     print "Zero"
