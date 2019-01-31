@@ -1,7 +1,7 @@
-year = int(raw_input())
-if (year % 4) == 0:
-   if (year % 100) == 0:
-       if (year % 400) == 0:
+leap_year = int(raw_input())
+if (leap_year % 4) == 0:
+   if (leap_year % 100) == 0:
+       if (leap_year % 400) == 0:
            print "yes"
        else:
            print "no"
