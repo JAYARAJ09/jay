@@ -1,5 +1,5 @@
-usr_inpt=raw_input()
-if (inpt=='a' or inpt=='A' or inpt=='e' or inpt=='E' or inpt=='i' or inpt=='I' or inpt=='o' or inpt=='O' or inpt=='u' or inpt=='U'):
+apl=raw_input()
+if (apl=='a' or apl=='A' or apl=='e' or apl=='E' or apl=='i' or apl=='I' or apl=='o' or apl=='O' or apl=='u' or apl=='U'):
 	print "Vowel"
 else:
 	print "Consonant"
